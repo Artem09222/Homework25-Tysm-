@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Monserrat";
+}
+
+.card-menu {
+    background-color: rgb(186, 211, 98);
+    margin: 40px;
+    width: 300px;
+    padding: 25px 20px 50px 25px;
+    border-radius: 10px;
+}
+
+.card-button {
+    text-decoration: none;
+    background-color: rgb(83, 77, 102);
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 15px 0;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    width: 80%;
+}
+
+.card-title {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.credit-card {
+    position: relative;
+    background-image: url("./img/1618509957_25-phonoteka_org-p-fioletovii-fon-dlya-avatarki-26.jpg");
+    left: 65px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.credit-title {
+    color: white;
+    padding: 25px 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.credit-top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.credit-znak {
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.credit-bottom {
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 25px 25px;
+}
+
+.credit-cod {
+    color: white;
+    font-size: 15px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+.credit-logo {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 100px;
+}
